@@ -234,3 +234,36 @@ header{
   background-color: var(--color-primario);
   transform: scale(1.03);
 }
+
+.icon.instagram {
+  position: relative; 
+  top: 420px;         
+  left: 4,5px;         
+}
+
+
+.icon.facebook {
+  position: relative; 
+  top: 429px;         
+  left: 4,5px;         
+}
+
+.icon.youtube {
+  position: relative; 
+  top: 230px;        
+  left: 4,5px;        
+}
+
+.icon.whatsapp {
+  position: relative;
+  top: -563px; 
+  left: 1035px; 
+}
+
+
+.icon.casa {
+  position: relative;
+  top: -277px;   
+  left: 0px; 
+  
+}
