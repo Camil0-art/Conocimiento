@@ -254,12 +254,11 @@ header{
   left: 4,5px;        
 }
 
-.icon.whatsapp {
+.icon.whatsapp{
   position: relative;
-  top: -590px; 
-  left: 1050px; 
+  top: -563px;
+  left: 1035px;
 }
-
 
 .icon.casa {
   position: relative;
